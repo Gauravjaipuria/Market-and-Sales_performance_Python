@@ -1,1 +1,2 @@
-# Movie-Analysis-Python
+# Market and Sales_performance_Python
+#Global Superstore reveals an interesting sales pattern. Technology products bring in the highest sales, followed by Furniture and then Office Supplies. However, despite generating the most trade, Technology products account for fewer individual transactions compared to Office Supplies. This trend has held steady for the past four years. This data suggests a 60/40 pattern at play. In other words, a small portion of products (Technology) likely generates a significant share of the total sales (60%), while a larger portion of products (Office Supplies) contributes a smaller portion of the total sales (40%).
